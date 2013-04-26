@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/configure
+END
+mxml-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-node.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/Makefile.in
+END
+libmxml.a
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/libmxml.a
+END
+mxml.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml.pc.in
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/config.log
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/configure.in
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/config.status
+END
+mxml-set.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-set.c
+END
+mxml.list
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml.list
+END
+ANNOUNCEMENT
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/ANNOUNCEMENT
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/config.h
+END
+mxml.list.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml.list.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/config.h.in
+END
+mxml-search.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-search.c
+END
+mxml-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-string.c
+END
+mxml-index.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-index.c
+END
+mxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml.h
+END
+mxml-attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-attr.c
+END
+mxml-private.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-private.c
+END
+mxml-entity.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-entity.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/COPYING
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/CHANGES
+END
+mxml-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml-file.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/Makefile
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/install-sh
+END
+mxml.pc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/mxml/mxml.pc
+END

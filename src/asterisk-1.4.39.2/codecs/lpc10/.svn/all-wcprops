@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10
+END
+f2clib.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/f2clib.c
+END
+.hp100.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.hp100.o.d
+END
+.energy.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.energy.o.d
+END
+prepro.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/prepro.c
+END
+.encode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.encode.o.d
+END
+.median.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.median.o.d
+END
+ham84.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/ham84.c
+END
+irc2pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/irc2pc.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/decode.c
+END
+.invert.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.invert.o.d
+END
+pitsyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/pitsyn.c
+END
+lpfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/lpfilt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/Makefile
+END
+.ham84.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.ham84.o.d
+END
+.irc2pc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.irc2pc.o.d
+END
+.dcbias.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.dcbias.o.d
+END
+.pitsyn.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.pitsyn.o.d
+END
+.voicin.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.voicin.o.d
+END
+.difmag.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.difmag.o.d
+END
+lpcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/lpcenc.c
+END
+.onset.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.onset.o.d
+END
+bsynz.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/bsynz.c
+END
+.deemp.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.deemp.o.d
+END
+.lpfilt.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.lpfilt.o.d
+END
+dyptrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/dyptrk.c
+END
+lpcini.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/lpcini.c
+END
+.lpcenc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.lpcenc.o.d
+END
+.bsynz.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.bsynz.o.d
+END
+chanwr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/chanwr.c
+END
+tbdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/tbdm.c
+END
+liblpc10.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/liblpc10.vcproj
+END
+hp100.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/hp100.c
+END
+energy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/energy.c
+END
+lpcdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/lpcdec.c
+END
+.lpcini.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.lpcini.o.d
+END
+median.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/median.c
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/encode.c
+END
+.chanwr.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.chanwr.o.d
+END
+.placea.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.placea.o.d
+END
+.tbdm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.tbdm.o.d
+END
+.analys.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.analys.o.d
+END
+liblpc10.a
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/liblpc10.a
+END
+.lpcdec.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.lpcdec.o.d
+END
+.rcchk.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.rcchk.o.d
+END
+invert.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/invert.c
+END
+.mload.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.mload.o.d
+END
+.ivfilt.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.ivfilt.o.d
+END
+placev.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/placev.c
+END
+.f2clib.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.f2clib.o.d
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/f2c.h
+END
+.prepro.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.prepro.o.d
+END
+lpc10.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/lpc10.h
+END
+dcbias.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/dcbias.c
+END
+.placev.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.placev.o.d
+END
+difmag.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/difmag.c
+END
+voicin.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/voicin.c
+END
+onset.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/onset.c
+END
+preemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/preemp.c
+END
+synths.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/synths.c
+END
+deemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/deemp.c
+END
+.decode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.decode.o.d
+END
+.preemp.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.preemp.o.d
+END
+.synths.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.synths.o.d
+END
+vparms.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/vparms.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/README
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/random.c
+END
+.vparms.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.vparms.o.d
+END
+placea.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/placea.c
+END
+analys.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/analys.c
+END
+.dyptrk.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.dyptrk.o.d
+END
+rcchk.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/rcchk.c
+END
+mload.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/mload.c
+END
+.random.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/.random.o.d
+END
+ivfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10/ivfilt.c
+END

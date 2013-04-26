@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/asterisk-1.4.39.2/utils
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/utils/frame.h
+END
+smsq
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/utils/smsq
+END
+.frame.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/.frame.o.d
+END
+.stereorize.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/utils/.stereorize.o.d
+END
+.aelbison.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/utils/.aelbison.o.d
+END
+.aelparse.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/utils/.aelparse.o.d
+END
+strcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/utils/strcompat.c
+END
+expr2.testinput
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/utils/expr2.testinput
+END
+ast_expr2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/utils/ast_expr2f.c
+END
+smsq.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/utils/smsq.c
+END
+astman.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/utils/astman.c
+END
+streamplayer
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/utils/streamplayer
+END
+.strcompat.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/utils/.strcompat.o.d
+END
+.ast_expr2f.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/utils/.ast_expr2f.o.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/utils/Makefile
+END
+muted
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/utils/muted
+END
+.smsq.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/utils/.smsq.o.d
+END
+astman.1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/utils/astman.1
+END
+ael_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/ael_main.c
+END
+ast_expr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/utils/ast_expr2.c
+END
+streamplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/utils/streamplayer.c
+END
+stereorize
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/stereorize
+END
+pbx_ael.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/utils/pbx_ael.c
+END
+check_expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/utils/check_expr.c
+END
+aelparse
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/utils/aelparse
+END
+muted.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/utils/muted.c
+END
+.ael_main.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/utils/.ael_main.o.d
+END
+.ast_expr2.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/utils/.ast_expr2.o.d
+END
+.streamplayer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/utils/.streamplayer.o.d
+END
+.pbx_ael.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/utils/.pbx_ael.o.d
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/utils/frame.c
+END
+.muted.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/.muted.o.d
+END
+stereorize.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/utils/stereorize.c
+END
+aelparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/aelparse.c
+END
+aelbison.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/utils/aelbison.c
+END

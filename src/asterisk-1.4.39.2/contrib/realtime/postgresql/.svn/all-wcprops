@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/postgresql
+END
+realtime.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/postgresql/realtime.sql
+END

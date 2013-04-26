@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/menuselect
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/configure
+END
+make_version
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/make_version
+END
+menuselect_newt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect_newt.c
+END
+menuselect_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect_stub.c
+END
+makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/makeopts
+END
+autoconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/autoconfig.h
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/config.log
+END
+menuselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect.c
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/bootstrap.sh
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/config.status
+END
+makeopts.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/makeopts.in
+END
+autoconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/autoconfig.h.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/config.guess
+END
+menuselect.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect.h
+END
+menuselect_gtk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect_gtk.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/README
+END
+strcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/strcompat.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/configure.ac
+END
+menuselect
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/acinclude.m4
+END
+menuselect_curses.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/menuselect_curses.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/missing
+END
+linkedlists.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/linkedlists.h
+END
+example_menuselect-tree
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/example_menuselect-tree
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/aclocal.m4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/Makefile
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/menuselect/install-sh
+END

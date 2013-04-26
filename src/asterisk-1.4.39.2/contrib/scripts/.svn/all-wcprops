@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts
+END
+astcli
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/astcli
+END
+retrieve_extensions_from_sql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/retrieve_extensions_from_sql.pl
+END
+safe_asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/safe_asterisk
+END
+retrieve_extensions_from_mysql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/retrieve_extensions_from_mysql.pl
+END
+managerproxy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/managerproxy.pl
+END
+retrieve_sip_conf_from_mysql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/retrieve_sip_conf_from_mysql.pl
+END
+safe_asterisk_restart
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/safe_asterisk_restart
+END
+safe_asterisk.8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/safe_asterisk.8
+END
+astgenkey
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/astgenkey
+END
+ast_grab_core
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/ast_grab_core
+END
+README.messages-expire
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/README.messages-expire
+END
+loadtest.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/loadtest.tcl
+END
+astgenkey.8
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/astgenkey.8
+END
+get_ilbc_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/get_ilbc_source.sh
+END
+qview.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/qview.pl
+END
+autosupport
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/autosupport
+END
+live_ast
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/live_ast
+END
+agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/agents.php
+END
+lookup.agi
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/lookup.agi
+END
+vmail.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/vmail.cgi
+END
+messages-expire.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/messages-expire.pl
+END
+autosupport.8
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/contrib/scripts/autosupport.8
+END

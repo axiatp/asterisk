@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn
+END
+isdn_msg_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/isdn_msg_parser.c
+END
+portinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/portinfo.c
+END
+isdn_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/isdn_lib.c
+END
+isdn_lib_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/isdn_lib_intern.h
+END
+isdn_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/isdn_lib.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/Makefile
+END
+chan_misdn_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/chan_misdn_config.h
+END
+ie.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn/ie.c
+END

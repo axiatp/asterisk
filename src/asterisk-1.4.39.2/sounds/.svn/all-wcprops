@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1/asterisk-1.4.39.2/sounds
+END
+asterisk-moh-opsound-wav-2.03.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1/asterisk-1.4.39.2/sounds/asterisk-moh-opsound-wav-2.03.tar.gz
+END
+sounds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/sounds/sounds.xml
+END
+asterisk-core-sounds-en-gsm-1.4.20.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1/asterisk-1.4.39.2/sounds/asterisk-core-sounds-en-gsm-1.4.20.tar.gz
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/sounds/Makefile
+END

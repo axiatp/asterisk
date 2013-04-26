@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1/asterisk-1.4.39.2/keys
+END
+iaxtel.pub
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/keys/iaxtel.pub
+END
+freeworlddialup.pub
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/keys/freeworlddialup.pub
+END

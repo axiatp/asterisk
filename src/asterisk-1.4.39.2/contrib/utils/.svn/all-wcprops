@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/contrib/utils
+END
+README.rawplayer
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/contrib/utils/README.rawplayer
+END
+zones2indications.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/contrib/utils/zones2indications.c
+END
+rawplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/contrib/utils/rawplayer.c
+END

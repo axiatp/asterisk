@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1/asterisk-1.4.39.2/codecs
+END
+slin_ulaw_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_ulaw_ex.h
+END
+.codec_gsm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_gsm.o.d
+END
+.codec_adpcm.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_adpcm.makeopts
+END
+.codec_g726.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_g726.makeopts
+END
+.codec_gsm.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_gsm.makeopts
+END
+.codec_ilbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_ilbc.moduleinfo
+END
+.codec_dahdi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_dahdi.moduleinfo
+END
+codec_ulaw.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_ulaw.so
+END
+slin_lpc10_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_lpc10_ex.h
+END
+adpcm_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/adpcm_slin_ex.h
+END
+slin_adpcm_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_adpcm_ex.h
+END
+g726_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/g726_slin_ex.h
+END
+slin_g726_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_g726_ex.h
+END
+codec_lpc10.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_lpc10.so
+END
+codec_lpc10.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_lpc10.c
+END
+gsm_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm_slin_ex.h
+END
+slin_gsm_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_gsm_ex.h
+END
+codec_a_mu.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_a_mu.so
+END
+.codec_alaw.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_alaw.moduleinfo
+END
+codec_a_mu.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_a_mu.c
+END
+.codec_speex.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_speex.moduleinfo
+END
+codec_adpcm.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_adpcm.so
+END
+codec_g726.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_g726.so
+END
+codec_alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_alaw.c
+END
+codec_speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_speex.c
+END
+codec_g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_g726.c
+END
+codec_gsm.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_gsm.so
+END
+.codec_ilbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_ilbc.makeopts
+END
+.codec_dahdi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_dahdi.makeopts
+END
+log2comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/codecs/log2comp.h
+END
+.codec_lpc10.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_lpc10.o.d
+END
+.codec_a_mu.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_a_mu.o.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/codecs/Makefile
+END
+.codec_alaw.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_alaw.o.d
+END
+.codec_g726.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_g726.o.d
+END
+ulaw_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/ulaw_slin_ex.h
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.moduleinfo
+END
+ilbc_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/ilbc_slin_ex.h
+END
+slin_ilbc_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_ilbc_ex.h
+END
+.codec_speex.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_speex.makeopts
+END
+.codec_alaw.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_alaw.makeopts
+END
+.codec_ulaw.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_ulaw.moduleinfo
+END
+codec_ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_ulaw.c
+END
+lpc10_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/lpc10_slin_ex.h
+END
+codec_ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_ilbc.c
+END
+codec_dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_dahdi.c
+END
+.codec_lpc10.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_lpc10.moduleinfo
+END
+speex_slin_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/speex_slin_ex.h
+END
+slin_speex_ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/slin_speex_ex.h
+END
+.codec_a_mu.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_a_mu.moduleinfo
+END
+.codec_adpcm.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_adpcm.moduleinfo
+END
+.codec_g726.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_g726.moduleinfo
+END
+.codec_gsm.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_gsm.moduleinfo
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.makeopts
+END
+codec_alaw.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_alaw.so
+END
+.codec_ulaw.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_ulaw.o.d
+END
+codec_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_adpcm.c
+END
+codec_gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/codecs/codec_gsm.c
+END
+.codec_ulaw.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_ulaw.makeopts
+END
+.codec_lpc10.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_lpc10.makeopts
+END
+.codec_a_mu.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_a_mu.makeopts
+END
+.codec_adpcm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/.codec_adpcm.o.d
+END

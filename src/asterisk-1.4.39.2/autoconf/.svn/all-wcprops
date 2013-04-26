@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/autoconf
+END
+ast_c_define_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_c_define_check.m4
+END
+ast_prog_egrep.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_prog_egrep.m4
+END
+ast_check_pwlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_check_pwlib.m4
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/acx_pthread.m4
+END
+ast_func_fork.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_func_fork.m4
+END
+ast_check_openh323.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_check_openh323.m4
+END
+ast_gcc_attribute.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_gcc_attribute.m4
+END
+ast_prog_ld_gnu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_prog_ld_gnu.m4
+END
+ast_prog_sed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_prog_sed.m4
+END
+ast_check_gnu_make.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_check_gnu_make.m4
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/libcurl.m4
+END
+ast_ext_lib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_ext_lib.m4
+END
+ast_prog_ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_prog_ld.m4
+END
+ast_c_compile_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/autoconf/ast_c_compile_check.m4
+END

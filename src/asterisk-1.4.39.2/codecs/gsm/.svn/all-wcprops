@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm
+END
+libgsm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/libgsm.vcproj
+END
+.src_lpc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_lpc.o.d
+END
+.src_gsm_option.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_option.o.d
+END
+.src_decode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_decode.o.d
+END
+.src_preprocess.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_preprocess.o.d
+END
+.src_rpe.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_rpe.o.d
+END
+.src_long_term.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_long_term.o.d
+END
+.src_debug.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_debug.o.d
+END
+.src_short_term.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_short_term.o.d
+END
+.src_table.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_table.o.d
+END
+.src_add.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_add.o.d
+END
+.src_gsm_decode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_decode.o.d
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/README
+END
+.src_gsm_implode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_implode.o.d
+END
+.src_gsm_destroy.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_destroy.o.d
+END
+.src_gsm_print.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_print.o.d
+END
+.src_gsm_encode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_encode.o.d
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/COPYRIGHT
+END
+.src_gsm_explode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_explode.o.d
+END
+.src_gsm_create.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_gsm_create.o.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/Makefile
+END
+.src_code.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/codecs/gsm/.src_code.o.d
+END

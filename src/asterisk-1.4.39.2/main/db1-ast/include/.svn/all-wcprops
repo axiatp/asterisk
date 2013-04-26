@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include
+END
+ndbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include/ndbm.h
+END
+circ-queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include/circ-queue.h
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include/compat.h
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include/db.h
+END
+mpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/include/mpool.h
+END

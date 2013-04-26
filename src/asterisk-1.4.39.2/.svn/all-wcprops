@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/2/asterisk-1.4.39.2
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1/asterisk-1.4.39.2/configure
+END
+makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/makeopts
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/config.log
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/bootstrap.sh
+END
+default.exports
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/default.exports
+END
+asterisk-1.4.39.2-summary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/asterisk-1.4.39.2-summary.txt
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/config.guess
+END
+make-pkg
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/make-pkg
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/CREDITS
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/config.sub
+END
+defaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/defaults.h
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1/asterisk-1.4.39.2/BUGS
+END
+README-SERIOUSLY.bestpractices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/README-SERIOUSLY.bestpractices.txt
+END
+.version
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/.version
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/configure.ac
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/UPGRADE.txt
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/COPYING
+END
+makeopts.embed_rules
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/makeopts.embed_rules
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/Makefile
+END
+asterisk-1.4.39.2-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/asterisk-1.4.39.2-summary.html
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/mkinstalldirs
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/LICENSE
+END
+.lastclean
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/.lastclean
+END
+menuselect.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/menuselect.makeopts
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/config.status
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1/asterisk-1.4.39.2/ChangeLog
+END
+makeopts.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/makeopts.in
+END
+sample.call
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/sample.call
+END
+menuselect.makedeps
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/menuselect.makedeps
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1/asterisk-1.4.39.2/README
+END
+menuselect-tree
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/2/asterisk-1.4.39.2/menuselect-tree
+END
+queue_extenstate5_1.4.svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/queue_extenstate5_1.4.svn.patch
+END
+UPGRADE-1.2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/UPGRADE-1.2.txt
+END
+Zaptel-to-DAHDI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/Zaptel-to-DAHDI.txt
+END
+Makefile.moddir_rules
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/Makefile.moddir_rules
+END
+Makefile.rules
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/Makefile.rules
+END
+BSDmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/BSDmakefile
+END
+.cleancount
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1/asterisk-1.4.39.2/.cleancount
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/asterisk-1.4.39.2/install-sh
+END

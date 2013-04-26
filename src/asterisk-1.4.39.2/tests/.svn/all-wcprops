@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/asterisk-1.4.39.2/tests
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/tests/.moduleinfo
+END
+.test_astobj2.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_astobj2.moduleinfo
+END
+.test_poll.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_poll.moduleinfo
+END
+test_astobj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/tests/test_astobj2.c
+END
+test_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/tests/test_poll.c
+END
+.test_expr.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_expr.moduleinfo
+END
+.test_skel.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_skel.makeopts
+END
+test_expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/tests/test_expr.c
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/tests/.makeopts
+END
+.test_astobj2.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_astobj2.makeopts
+END
+.test_poll.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_poll.makeopts
+END
+.test_skel.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_skel.moduleinfo
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/tests/Makefile
+END
+.test_expr.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/tests/.test_expr.makeopts
+END
+test_skel.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/tests/test_skel.c
+END

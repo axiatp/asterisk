@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/mysql
+END
+sipfriends.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/mysql/sipfriends.sql
+END
+voicemail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/mysql/voicemail.sql
+END
+iaxfriends.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/mysql/iaxfriends.sql
+END
+meetme.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/contrib/realtime/mysql/meetme.sql
+END

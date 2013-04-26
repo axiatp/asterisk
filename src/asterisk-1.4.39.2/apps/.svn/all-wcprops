@@ -1,0 +1,2213 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/2/asterisk-1.4.39.2/apps
+END
+.app_test.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_test.makeopts
+END
+.app_disa.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_disa.makeopts
+END
+.app_chanisavail.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanisavail.makeopts
+END
+.app_chanspy.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanspy.moduleinfo
+END
+.app_ices.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_ices.makeopts
+END
+.app_system.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_system.makeopts
+END
+.app_waitforring.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforring.o.d
+END
+.app_read.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_read.moduleinfo
+END
+.app_dumpchan.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dumpchan.o.d
+END
+.app_dumpchan.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dumpchan.makeopts
+END
+app_softhangup.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_softhangup.c
+END
+app_alarmreceiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_alarmreceiver.c
+END
+.app_chanspy.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanspy.o.d
+END
+.app_followme.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_followme.moduleinfo
+END
+app_transfer.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_transfer.so
+END
+app_talkdetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_talkdetect.c
+END
+.app_hasnewvoicemail.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_hasnewvoicemail.o.d
+END
+app_voicemail.exports
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_voicemail.exports
+END
+app_waitforring.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_waitforring.so
+END
+.app_chanisavail.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanisavail.o.d
+END
+.app_random.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_random.makeopts
+END
+.app_morsecode.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_morsecode.makeopts
+END
+.app_zapateller.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_zapateller.moduleinfo
+END
+.app_externalivr.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_externalivr.moduleinfo
+END
+.app_getcpeid.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_getcpeid.o.d
+END
+.app_rpt.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_rpt.moduleinfo
+END
+.app_ivrdemo.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_ivrdemo.moduleinfo
+END
+app_directory.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_directory.so
+END
+.app_followme.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_followme.makeopts
+END
+app_senddtmf.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_senddtmf.c
+END
+.app_setcdruserfield.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcdruserfield.makeopts
+END
+app_dial.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dial.so
+END
+.app_userevent.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_userevent.moduleinfo
+END
+.app_skel.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_skel.makeopts
+END
+.app_image.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_image.moduleinfo
+END
+.app_nv_faxdetect.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_nv_faxdetect.o.d
+END
+.app_voicemail.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_voicemail.makeopts
+END
+.app_adsiprog.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_adsiprog.makeopts
+END
+app_channelredirect.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_channelredirect.so
+END
+app_forkcdr.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_forkcdr.so
+END
+app_lookupcidname.so
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_lookupcidname.so
+END
+app_channelredirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_channelredirect.c
+END
+app_forkcdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_forkcdr.c
+END
+app_lookupcidname.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_lookupcidname.c
+END
+app_nv_faxdetect-1.0.6_1.4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2/asterisk-1.4.39.2/apps/app_nv_faxdetect-1.0.6_1.4.c
+END
+.app_dahdiscan.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdiscan.makeopts
+END
+.app_macro.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_macro.moduleinfo
+END
+app_skel.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_skel.c
+END
+app_dumpchan.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dumpchan.c
+END
+.app_senddtmf.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_senddtmf.moduleinfo
+END
+.app_while.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_while.moduleinfo
+END
+app_verbose.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_verbose.c
+END
+app_parkandannounce.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_parkandannounce.so
+END
+app_adsiprog.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_adsiprog.so
+END
+app_nv_faxdetect-1.0.6_1.4.o
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2/asterisk-1.4.39.2/apps/app_nv_faxdetect-1.0.6_1.4.o
+END
+app_dial.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dial.c
+END
+app_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_page.c
+END
+app_hasnewvoicemail.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_hasnewvoicemail.c
+END
+app_disa.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_disa.c
+END
+.app_realtime.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_realtime.makeopts
+END
+app_chanisavail.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_chanisavail.c
+END
+.app_senddtmf.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_senddtmf.makeopts
+END
+app_getcpeid.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_getcpeid.so
+END
+.app_speech_utils.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_speech_utils.moduleinfo
+END
+.app_cdr.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_cdr.o.d
+END
+app_playback.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_playback.so
+END
+.app_nbscat.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_nbscat.o.d
+END
+.app_festival.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_festival.o.d
+END
+.app_read.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_read.makeopts
+END
+.app_directed_pickup.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directed_pickup.moduleinfo
+END
+.app_mp3.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mp3.moduleinfo
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/2/asterisk-1.4.39.2/apps/.moduleinfo
+END
+app_sendtext.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sendtext.c
+END
+.app_alarmreceiver.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_alarmreceiver.makeopts
+END
+.app_playback.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_playback.o.d
+END
+app_lookupblacklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_lookupblacklist.c
+END
+.app_parkandannounce.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_parkandannounce.moduleinfo
+END
+.app_lookupcidname.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupcidname.makeopts
+END
+.app_page.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_page.moduleinfo
+END
+.app_realtime.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_realtime.o.d
+END
+app_morsecode.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_morsecode.so
+END
+.app_sms.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sms.makeopts
+END
+.app_zapateller.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_zapateller.makeopts
+END
+.app_externalivr.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_externalivr.makeopts
+END
+.app_milliwatt.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_milliwatt.o.d
+END
+app_db.so
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_db.so
+END
+.app_page.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_page.makeopts
+END
+app_nv_faxdetect-1.0.6_1.4.so
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/2/asterisk-1.4.39.2/apps/app_nv_faxdetect-1.0.6_1.4.so
+END
+.app_softhangup.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_softhangup.makeopts
+END
+.app_lookupblacklist.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupblacklist.moduleinfo
+END
+leave.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/apps/leave.h
+END
+app_settransfercapability.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_settransfercapability.c
+END
+app_mixmonitor.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_mixmonitor.so
+END
+app_chanspy.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_chanspy.c
+END
+app_voicemail.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_voicemail.so
+END
+app_adsiprog.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_adsiprog.c
+END
+.app_directed_pickup.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directed_pickup.o.d
+END
+.app_sayunixtime.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sayunixtime.moduleinfo
+END
+app_softhangup.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_softhangup.so
+END
+.app_sms.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sms.o.d
+END
+app_image.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_image.so
+END
+app_system.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_system.so
+END
+.app_voicemail.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_voicemail.o.d
+END
+.app_adsiprog.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_adsiprog.o.d
+END
+.app_osplookup.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_osplookup.moduleinfo
+END
+.app_dictate.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dictate.o.d
+END
+.app_skel.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_skel.moduleinfo
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/apps/Makefile
+END
+.app_userevent.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_userevent.o.d
+END
+.app_dahdiras.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdiras.makeopts
+END
+app_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_mp3.c
+END
+.app_talkdetect.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_talkdetect.o.d
+END
+.app_speech_utils.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_speech_utils.o.d
+END
+app_ivrdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_ivrdemo.c
+END
+app_milliwatt.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_milliwatt.so
+END
+.app_controlplayback.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_controlplayback.makeopts
+END
+.app_nbscat.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_nbscat.moduleinfo
+END
+app_parkandannounce.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_parkandannounce.c
+END
+app_while.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_while.so
+END
+.app_readfile.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_readfile.moduleinfo
+END
+.app_dahdiscan.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdiscan.moduleinfo
+END
+app_readfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_readfile.c
+END
+.app_test.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_test.moduleinfo
+END
+.app_amd.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_amd.makeopts
+END
+.app_parkandannounce.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_parkandannounce.o.d
+END
+app_setcdruserfield.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_setcdruserfield.so
+END
+.app_dumpchan.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dumpchan.moduleinfo
+END
+.app_waitforsilence.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforsilence.makeopts
+END
+app_directed_pickup.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_directed_pickup.c
+END
+app_amd.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_amd.so
+END
+.app_directory.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directory.moduleinfo
+END
+.app_image.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_image.makeopts
+END
+app_macro.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_macro.c
+END
+app_sms.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sms.c
+END
+app_zapateller.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_zapateller.so
+END
+.app_playback.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_playback.makeopts
+END
+app_cdr.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_cdr.so
+END
+app_voicemail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_voicemail.c
+END
+.app_meetme.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_meetme.moduleinfo
+END
+app_readfile.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_readfile.so
+END
+.app_flash.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_flash.makeopts
+END
+app_hasnewvoicemail.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_hasnewvoicemail.so
+END
+app_dahdiras.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dahdiras.c
+END
+app_sayunixtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sayunixtime.c
+END
+app_userevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_userevent.c
+END
+.app_queue.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_queue.moduleinfo
+END
+.app_exec.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_exec.moduleinfo
+END
+app_ices.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_ices.so
+END
+.app_directory.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directory.makeopts
+END
+.app_setcdruserfield.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcdruserfield.moduleinfo
+END
+app_transfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_transfer.c
+END
+.app_milliwatt.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_milliwatt.makeopts
+END
+app_playback.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_playback.c
+END
+.app_read.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_read.o.d
+END
+.app_setcallerid.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcallerid.moduleinfo
+END
+.app_meetme.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_meetme.makeopts
+END
+app_osplookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_osplookup.c
+END
+.app_record.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_record.makeopts
+END
+.app_authenticate.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_authenticate.makeopts
+END
+app_sendtext.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sendtext.so
+END
+app_dumpchan.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dumpchan.so
+END
+.app_image.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_image.o.d
+END
+.app_system.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_system.o.d
+END
+app_realtime.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_realtime.so
+END
+app_url.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_url.so
+END
+.app_queue.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_queue.makeopts
+END
+.app_exec.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_exec.makeopts
+END
+app_directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_directory.c
+END
+app_stack.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_stack.so
+END
+.app_cdr.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_cdr.moduleinfo
+END
+app_while.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_while.c
+END
+app_dahdibarge.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dahdibarge.c
+END
+.app_osplookup.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_osplookup.makeopts
+END
+.app_softhangup.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_softhangup.moduleinfo
+END
+.app_disa.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_disa.moduleinfo
+END
+app_authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_authenticate.c
+END
+app_alarmreceiver.so
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_alarmreceiver.so
+END
+app_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_random.c
+END
+.app_transfer.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_transfer.moduleinfo
+END
+app_exec.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_exec.so
+END
+.app_privacy.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_privacy.o.d
+END
+.app_readfile.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_readfile.makeopts
+END
+.app_flash.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_flash.moduleinfo
+END
+.app_url.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_url.moduleinfo
+END
+.app_followme.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_followme.o.d
+END
+app_externalivr.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_externalivr.so
+END
+.app_transfer.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_transfer.makeopts
+END
+.app_dial.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dial.moduleinfo
+END
+.app_channelredirect.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_channelredirect.o.d
+END
+.app_forkcdr.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_forkcdr.o.d
+END
+app_cdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_cdr.c
+END
+app_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_read.c
+END
+app_dictate.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dictate.c
+END
+.app_random.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_random.moduleinfo
+END
+.app_morsecode.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_morsecode.moduleinfo
+END
+app_festival.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_festival.c
+END
+app_disa.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_disa.so
+END
+.app_macro.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_macro.makeopts
+END
+.app_lookupblacklist.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupblacklist.makeopts
+END
+app_getcpeid.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_getcpeid.c
+END
+app_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_db.c
+END
+app_setcdruserfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_setcdruserfield.c
+END
+.app_softhangup.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_softhangup.o.d
+END
+.app_festival.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_festival.makeopts
+END
+.app_alarmreceiver.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_alarmreceiver.o.d
+END
+.app_settransfercapability.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_settransfercapability.moduleinfo
+END
+.app_setcdruserfield.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcdruserfield.o.d
+END
+.app_voicemail.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_voicemail.moduleinfo
+END
+.app_adsiprog.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_adsiprog.moduleinfo
+END
+app_mixmonitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_mixmonitor.c
+END
+app_milliwatt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_milliwatt.c
+END
+.app_setcallerid.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcallerid.makeopts
+END
+app_read.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_read.so
+END
+.app_waitforsilence.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforsilence.moduleinfo
+END
+app_meetme.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_meetme.c
+END
+.app_lookupblacklist.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupblacklist.o.d
+END
+app_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_test.c
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/.makeopts
+END
+.app_senddtmf.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_senddtmf.o.d
+END
+.app_getcpeid.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_getcpeid.moduleinfo
+END
+.app_playback.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_playback.moduleinfo
+END
+app_followme.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_followme.so
+END
+app_queue.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_queue.so
+END
+app_controlplayback.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_controlplayback.so
+END
+.app_waitforring.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforring.moduleinfo
+END
+.app_nbscat.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_nbscat.makeopts
+END
+app_directed_pickup.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_directed_pickup.so
+END
+.app_echo.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_echo.makeopts
+END
+app_mp3.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_mp3.so
+END
+.app_userevent.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_userevent.makeopts
+END
+.app_getcpeid.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_getcpeid.makeopts
+END
+.app_milliwatt.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_milliwatt.moduleinfo
+END
+.app_dahdibarge.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdibarge.moduleinfo
+END
+app_nbscat.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_nbscat.so
+END
+.app_festival.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_festival.moduleinfo
+END
+app_nbscat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_nbscat.c
+END
+.app_record.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_record.moduleinfo
+END
+.app_authenticate.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_authenticate.moduleinfo
+END
+.app_dahdiras.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdiras.moduleinfo
+END
+.app_sendtext.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sendtext.makeopts
+END
+app_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_echo.c
+END
+app_waitforsilence.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_waitforsilence.c
+END
+app_chanisavail.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_chanisavail.so
+END
+enter.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/apps/enter.h
+END
+app_talkdetect.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_talkdetect.so
+END
+.app_stack.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_stack.makeopts
+END
+.app_controlplayback.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_controlplayback.moduleinfo
+END
+app_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_system.c
+END
+.app_while.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_while.makeopts
+END
+.app_channelredirect.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_channelredirect.moduleinfo
+END
+.app_forkcdr.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_forkcdr.moduleinfo
+END
+.app_waitforsilence.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforsilence.o.d
+END
+.app_disa.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_disa.o.d
+END
+.app_dictate.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dictate.makeopts
+END
+app_lookupblacklist.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_lookupblacklist.so
+END
+app_senddtmf.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_senddtmf.so
+END
+app_dictate.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dictate.so
+END
+app_festival.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_festival.so
+END
+app_authenticate.so
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_authenticate.so
+END
+.app_amd.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_amd.o.d
+END
+app_privacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_privacy.c
+END
+app_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_record.c
+END
+app_sayunixtime.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sayunixtime.so
+END
+.app_chanisavail.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanisavail.moduleinfo
+END
+app_speech_utils.so
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_speech_utils.so
+END
+.app_readfile.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_readfile.o.d
+END
+.app_record.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_record.o.d
+END
+.app_authenticate.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_authenticate.o.d
+END
+.app_random.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_random.o.d
+END
+.app_morsecode.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_morsecode.o.d
+END
+.app_hasnewvoicemail.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_hasnewvoicemail.makeopts
+END
+.app_ices.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_ices.o.d
+END
+app_settransfercapability.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_settransfercapability.so
+END
+.app_stack.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_stack.moduleinfo
+END
+app_stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_stack.c
+END
+.app_lookupcidname.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupcidname.o.d
+END
+.app_waitforring.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_waitforring.makeopts
+END
+.app_dictate.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dictate.moduleinfo
+END
+app_dahdiscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_dahdiscan.c
+END
+.app_alarmreceiver.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_alarmreceiver.moduleinfo
+END
+app_userevent.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_userevent.so
+END
+.app_url.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_url.makeopts
+END
+.app_stack.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_stack.o.d
+END
+app_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_image.c
+END
+.app_verbose.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_verbose.makeopts
+END
+.app_dial.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dial.o.d
+END
+app_controlplayback.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_controlplayback.c
+END
+app_setcallerid.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_setcallerid.c
+END
+app_macro.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_macro.so
+END
+.app_controlplayback.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_controlplayback.o.d
+END
+app_zapateller.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_zapateller.c
+END
+.app_db.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_db.makeopts
+END
+app_verbose.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_verbose.so
+END
+app_rpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_rpt.c
+END
+.app_speech_utils.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_speech_utils.makeopts
+END
+.app_setcallerid.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_setcallerid.o.d
+END
+.app_echo.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_echo.moduleinfo
+END
+.app_mp3.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mp3.o.d
+END
+.app_url.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_url.o.d
+END
+.app_mp3.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mp3.makeopts
+END
+app_random.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_random.so
+END
+.app_directory.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directory.o.d
+END
+.app_ices.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_ices.moduleinfo
+END
+app_morsecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_morsecode.c
+END
+.app_talkdetect.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_talkdetect.moduleinfo
+END
+.app_settransfercapability.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_settransfercapability.makeopts
+END
+app_ices.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_ices.c
+END
+.app_while.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_while.o.d
+END
+.app_mixmonitor.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mixmonitor.makeopts
+END
+app_exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_exec.c
+END
+.app_parkandannounce.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_parkandannounce.makeopts
+END
+app_setcallerid.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_setcallerid.so
+END
+.app_sendtext.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sendtext.moduleinfo
+END
+.app_privacy.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_privacy.makeopts
+END
+.app_realtime.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_realtime.moduleinfo
+END
+.app_queue.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_queue.o.d
+END
+.app_exec.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_exec.o.d
+END
+app_sms.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_sms.so
+END
+.app_verbose.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_verbose.moduleinfo
+END
+.app_talkdetect.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_talkdetect.makeopts
+END
+app_privacy.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_privacy.so
+END
+.app_macro.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_macro.o.d
+END
+app_echo.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_echo.so
+END
+app_waitforsilence.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_waitforsilence.so
+END
+.app_settransfercapability.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_settransfercapability.o.d
+END
+app_test.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_test.so
+END
+.app_verbose.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_verbose.o.d
+END
+.app_db.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_db.moduleinfo
+END
+app_queue.c.orig
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_queue.c.orig
+END
+.app_chanspy.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_chanspy.makeopts
+END
+.app_lookupcidname.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_lookupcidname.moduleinfo
+END
+app_speech_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_speech_utils.c
+END
+.app_dial.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dial.makeopts
+END
+.app_dahdibarge.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_dahdibarge.makeopts
+END
+.app_echo.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_echo.o.d
+END
+.app_sayunixtime.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sayunixtime.o.d
+END
+.app_sayunixtime.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sayunixtime.makeopts
+END
+.app_amd.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_amd.moduleinfo
+END
+.app_sms.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sms.moduleinfo
+END
+.app_transfer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_transfer.o.d
+END
+app_amd.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_amd.c
+END
+.app_db.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_db.o.d
+END
+.app_mixmonitor.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mixmonitor.moduleinfo
+END
+app_realtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_realtime.c
+END
+app_url.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_url.c
+END
+app_externalivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_externalivr.c
+END
+app_chanspy.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_chanspy.so
+END
+.app_channelredirect.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_channelredirect.makeopts
+END
+.app_forkcdr.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_forkcdr.makeopts
+END
+.app_sendtext.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_sendtext.o.d
+END
+.app_privacy.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_privacy.moduleinfo
+END
+.app_hasnewvoicemail.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_hasnewvoicemail.moduleinfo
+END
+.app_directed_pickup.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_directed_pickup.makeopts
+END
+app_record.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_record.so
+END
+.app_zapateller.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_zapateller.o.d
+END
+.app_externalivr.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_externalivr.o.d
+END
+.app_system.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_system.moduleinfo
+END
+.app_mixmonitor.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_mixmonitor.o.d
+END
+.app_nv_faxdetect-1.0.6_1-foras1.4.23.1.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_nv_faxdetect-1.0.6_1-foras1.4.23.1.o.d
+END
+rpt_flow.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/apps/rpt_flow.pdf
+END
+.app_rpt.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_rpt.makeopts
+END
+.app_ivrdemo.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_ivrdemo.makeopts
+END
+app_followme.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_followme.c
+END
+app_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_queue.c
+END
+.app_cdr.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_cdr.makeopts
+END
+.app_test.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/apps/.app_test.o.d
+END
+app_waitforring.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_waitforring.c
+END
+app_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/apps/app_flash.c
+END

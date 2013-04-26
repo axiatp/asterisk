@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/asterisk-1.4.39.2/funcs
+END
+.func_channel.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_channel.o.d
+END
+.func_cdr.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cdr.o.d
+END
+func_md5.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_md5.so
+END
+func_rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_rand.c
+END
+.func_env.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_env.moduleinfo
+END
+func_timeout.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_timeout.so
+END
+.func_odbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_odbc.makeopts
+END
+.func_math.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_math.moduleinfo
+END
+.func_channel.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_channel.makeopts
+END
+.func_cdr.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cdr.makeopts
+END
+.func_cut.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cut.moduleinfo
+END
+func_env.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_env.c
+END
+.func_sha1.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_sha1.moduleinfo
+END
+func_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_strings.c
+END
+func_logic.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_logic.so
+END
+func_global.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_global.so
+END
+.func_rand.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_rand.o.d
+END
+.func_enum.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_enum.moduleinfo
+END
+.func_curl.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_curl.moduleinfo
+END
+.func_rand.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_rand.makeopts
+END
+func_audiohookinherit.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_audiohookinherit.so
+END
+func_groupcount.so
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_groupcount.so
+END
+.func_strings.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_strings.o.d
+END
+.func_math.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_math.makeopts
+END
+.func_cut.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cut.makeopts
+END
+.func_callerid.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_callerid.moduleinfo
+END
+.func_groupcount.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_groupcount.o.d
+END
+.func_audiohookinherit.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_audiohookinherit.o.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/funcs/Makefile
+END
+func_language.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_language.so
+END
+func_language.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_language.c
+END
+func_rand.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_rand.so
+END
+.func_curl.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_curl.makeopts
+END
+func_db.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_db.so
+END
+.func_strings.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_strings.moduleinfo
+END
+func_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_timeout.c
+END
+func_env.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_env.so
+END
+func_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_math.c
+END
+func_cut.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_cut.so
+END
+func_cut.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_cut.c
+END
+.func_uri.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_uri.moduleinfo
+END
+.func_global.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_global.moduleinfo
+END
+.func_callerid.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_callerid.makeopts
+END
+.func_db.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_db.o.d
+END
+.func_groupcount.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_groupcount.moduleinfo
+END
+.func_audiohookinherit.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_audiohookinherit.moduleinfo
+END
+.func_channel.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_channel.moduleinfo
+END
+.func_cdr.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cdr.moduleinfo
+END
+.func_timeout.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_timeout.makeopts
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.makeopts
+END
+func_curl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_curl.c
+END
+.func_cut.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_cut.o.d
+END
+.func_strings.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_strings.makeopts
+END
+func_cdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_cdr.c
+END
+func_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_channel.c
+END
+.func_uri.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_uri.makeopts
+END
+.func_moh.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_moh.moduleinfo
+END
+.func_language.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_language.moduleinfo
+END
+.func_realtime.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_realtime.makeopts
+END
+.func_rand.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_rand.moduleinfo
+END
+.func_db.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_db.moduleinfo
+END
+.func_groupcount.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_groupcount.makeopts
+END
+.func_audiohookinherit.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_audiohookinherit.makeopts
+END
+func_base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_base64.c
+END
+func_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_md5.c
+END
+func_strings.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_strings.so
+END
+.func_callerid.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_callerid.o.d
+END
+func_sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_sha1.c
+END
+func_logic.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_logic.c
+END
+func_uri.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_uri.so
+END
+func_uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_uri.c
+END
+.func_base64.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_base64.o.d
+END
+.func_md5.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_md5.o.d
+END
+func_realtime.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_realtime.so
+END
+.func_moh.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_moh.makeopts
+END
+.func_language.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_language.makeopts
+END
+.func_base64.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_base64.makeopts
+END
+.func_db.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_db.makeopts
+END
+.func_env.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_env.o.d
+END
+func_enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_enum.c
+END
+func_audiohookinherit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_audiohookinherit.c
+END
+func_groupcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_groupcount.c
+END
+.func_env.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_env.makeopts
+END
+func_cdr.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_cdr.so
+END
+func_channel.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_channel.so
+END
+func_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_odbc.c
+END
+.func_sha1.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_sha1.o.d
+END
+.func_logic.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_logic.o.d
+END
+.func_sha1.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_sha1.makeopts
+END
+.func_uri.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_uri.o.d
+END
+.func_enum.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_enum.o.d
+END
+.func_md5.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_md5.moduleinfo
+END
+func_moh.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_moh.so
+END
+.func_enum.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_enum.makeopts
+END
+.func_timeout.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_timeout.moduleinfo
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.moduleinfo
+END
+func_base64.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_base64.so
+END
+func_moh.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_moh.c
+END
+func_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_db.c
+END
+func_math.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_math.so
+END
+.func_logic.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_logic.moduleinfo
+END
+func_sha1.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_sha1.so
+END
+.func_realtime.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_realtime.moduleinfo
+END
+.func_moh.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_moh.o.d
+END
+.func_language.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_language.o.d
+END
+func_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_global.c
+END
+.func_timeout.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_timeout.o.d
+END
+func_realtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_realtime.c
+END
+func_enum.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_enum.so
+END
+.func_odbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_odbc.moduleinfo
+END
+.func_md5.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_md5.makeopts
+END
+.func_math.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_math.o.d
+END
+.func_logic.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_logic.makeopts
+END
+.func_global.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_global.o.d
+END
+.func_realtime.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_realtime.o.d
+END
+func_callerid.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_callerid.so
+END
+.func_global.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_global.makeopts
+END
+func_callerid.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/funcs/func_callerid.c
+END
+.func_base64.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/funcs/.func_base64.moduleinfo
+END

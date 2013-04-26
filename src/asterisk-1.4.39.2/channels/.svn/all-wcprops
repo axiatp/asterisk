@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1/asterisk-1.4.39.2/channels
+END
+.chan_mgcp.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_mgcp.makeopts
+END
+misdn_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/misdn_config.c
+END
+chan_dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_dahdi.c
+END
+iax2-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/iax2-parser.h
+END
+answer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/channels/answer.h
+END
+.chan_features.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_features.moduleinfo
+END
+gentone-ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/gentone-ulaw.c
+END
+ring10.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/channels/ring10.h
+END
+chan_h323.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_h323.c
+END
+.iax2-parser.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/.iax2-parser.o.d
+END
+.chan_gtalk.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_gtalk.makeopts
+END
+.chan_iax2.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_iax2.makeopts
+END
+chan_mgcp.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_mgcp.so
+END
+chan_local.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_local.so
+END
+chan_sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_sip.c
+END
+.chan_agent.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_agent.moduleinfo
+END
+chan_agent.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_agent.c
+END
+iax2-provision.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/iax2-provision.c
+END
+ring_tone.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/ring_tone.h
+END
+chan_iax2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_iax2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/channels/Makefile
+END
+chan_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_oss.c
+END
+iax2-provision.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/iax2-provision.h
+END
+.chan_phone.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_phone.moduleinfo
+END
+gentone.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/channels/gentone.c
+END
+.chan_sip.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_sip.o.d
+END
+.chan_misdn.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_misdn.moduleinfo
+END
+chan_misdn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_misdn.c
+END
+chan_skinny.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_skinny.so
+END
+.chan_alsa.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_alsa.moduleinfo
+END
+.chan_nbs.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_nbs.moduleinfo
+END
+chan_alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_alsa.c
+END
+chan_nbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_nbs.c
+END
+.chan_mgcp.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_mgcp.moduleinfo
+END
+.chan_oss.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_oss.makeopts
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/channels/.makeopts
+END
+.chan_skinny.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_skinny.o.d
+END
+.chan_sip.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_sip.moduleinfo
+END
+.chan_phone.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_phone.makeopts
+END
+chan_agent.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_agent.so
+END
+.chan_gtalk.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_gtalk.moduleinfo
+END
+chan_gtalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_gtalk.c
+END
+.chan_local.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_local.o.d
+END
+.chan_skinny.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_skinny.moduleinfo
+END
+chan_phone.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_phone.so
+END
+.chan_local.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_local.makeopts
+END
+chan_phone.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_phone.c
+END
+.chan_sip.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_sip.makeopts
+END
+DialTone.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/channels/DialTone.h
+END
+chan_features.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_features.c
+END
+.chan_vpb.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_vpb.moduleinfo
+END
+.chan_phone.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_phone.o.d
+END
+.chan_skinny.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_skinny.makeopts
+END
+chan_sip.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_sip.so
+END
+chan_vpb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_vpb.cc
+END
+.chan_features.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_features.makeopts
+END
+.chan_oss.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_oss.moduleinfo
+END
+chan_iax2.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_iax2.so
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/.moduleinfo
+END
+.chan_vpb.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_vpb.makeopts
+END
+.chan_dahdi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_dahdi.moduleinfo
+END
+.chan_agent.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_agent.o.d
+END
+chan_skinny.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_skinny.c
+END
+.iax2-provision.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/channels/.iax2-provision.o.d
+END
+.chan_h323.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_h323.moduleinfo
+END
+.chan_agent.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_agent.makeopts
+END
+.chan_iax2.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_iax2.o.d
+END
+iax2.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/channels/iax2.h
+END
+.chan_oss.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_oss.o.d
+END
+busy_tone.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/busy_tone.h
+END
+chan_mgcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_mgcp.c
+END
+.chan_local.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_local.moduleinfo
+END
+.chan_dahdi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_dahdi.makeopts
+END
+.chan_misdn.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_misdn.makeopts
+END
+chan_local.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_local.c
+END
+.chan_h323.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_h323.makeopts
+END
+.chan_alsa.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_alsa.makeopts
+END
+.chan_iax2.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_iax2.moduleinfo
+END
+.chan_nbs.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_nbs.makeopts
+END
+.chan_mgcp.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/channels/.chan_mgcp.o.d
+END
+chan_oss.so
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/channels/chan_oss.so
+END
+iax2-parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/channels/iax2-parser.c
+END

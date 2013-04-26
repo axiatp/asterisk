@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/asterisk-1.4.39.2/agi
+END
+.eagi-test.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/agi/.eagi-test.o.d
+END
+eagi-test
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/agi/eagi-test
+END
+eagi-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/agi/eagi-test.c
+END
+.eagi-sphinx-test.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/agi/.eagi-sphinx-test.o.d
+END
+jukebox.agi
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/agi/jukebox.agi
+END
+DialAnMp3.agi
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/agi/DialAnMp3.agi
+END
+.strcompat.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/agi/.strcompat.o.d
+END
+eagi-sphinx-test
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/agi/eagi-sphinx-test
+END
+eagi-sphinx-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/agi/eagi-sphinx-test.c
+END
+fastagi-test
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/agi/fastagi-test
+END
+numeralize
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/agi/numeralize
+END
+agi-test.agi
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/agi/agi-test.agi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/agi/Makefile
+END
+strcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/agi/strcompat.c
+END

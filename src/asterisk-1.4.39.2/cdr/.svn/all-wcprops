@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/asterisk-1.4.39.2/cdr
+END
+.cdr_radius.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_radius.makeopts
+END
+cdr_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_odbc.c
+END
+.cdr_csv.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_csv.o.d
+END
+cdr_manager.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_manager.so
+END
+cdr_custom.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_custom.so
+END
+.cdr_tds.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_tds.makeopts
+END
+cdr_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_manager.c
+END
+cdr_custom.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_custom.c
+END
+.cdr_csv.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_csv.makeopts
+END
+.cdr_sqlite.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_sqlite.makeopts
+END
+.cdr_pgsql.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_pgsql.moduleinfo
+END
+.cdr_custom.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_custom.o.d
+END
+.cdr_manager.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_manager.o.d
+END
+.cdr_odbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_odbc.makeopts
+END
+cdr_csv.so
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_csv.so
+END
+cdr_tds.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_tds.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/cdr/Makefile
+END
+.cdr_pgsql.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_pgsql.makeopts
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.moduleinfo
+END
+.cdr_custom.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_custom.moduleinfo
+END
+.cdr_manager.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_manager.moduleinfo
+END
+.cdr_radius.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_radius.moduleinfo
+END
+cdr_pgsql.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_pgsql.c
+END
+cdr_radius.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_radius.c
+END
+.cdr_tds.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_tds.moduleinfo
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.makeopts
+END
+.cdr_csv.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_csv.moduleinfo
+END
+.cdr_custom.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_custom.makeopts
+END
+.cdr_manager.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_manager.makeopts
+END
+cdr_csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_csv.c
+END
+.cdr_sqlite.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_sqlite.moduleinfo
+END
+cdr_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/cdr/cdr_sqlite.c
+END
+.cdr_odbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/cdr/.cdr_odbc.moduleinfo
+END

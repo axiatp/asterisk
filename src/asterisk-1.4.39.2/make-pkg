@@ -1,0 +1,8 @@
+#!/bin/sh
+
+cd /
+
+tar cvfz /root/Asterisk-1.4.39.2.tgz /usr/sbin/aelparse /usr/sbin/asterisk /usr/sbin/muted /usr/sbin/rasterisk /usr/sbin/smsq /usr/sbin/stereorize /usr/sbin/streamplayer /usr/lib/asterisk/modules 
+
+scp /root/Asterisk-1.4.39.2.tgz setup.axiatp.net:/www/setup.axiatp.net/dist
+

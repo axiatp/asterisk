@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/formats
+END
+format_sln.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_sln.c
+END
+.format_h263.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h263.o.d
+END
+.format_h264.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h264.o.d
+END
+format_ogg_vorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_ogg_vorbis.c
+END
+.format_h264.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h264.makeopts
+END
+.format_jpeg.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_jpeg.makeopts
+END
+.format_g729.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g729.makeopts
+END
+.format_sln.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_sln.o.d
+END
+.format_wav_gsm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav_gsm.o.d
+END
+format_g723.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g723.so
+END
+format_h264.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_h264.so
+END
+format_g723.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g723.c
+END
+.format_wav_gsm.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav_gsm.makeopts
+END
+format_jpeg.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_jpeg.so
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/formats/Makefile
+END
+format_g729.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g729.c
+END
+.format_sln.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_sln.moduleinfo
+END
+.format_wav.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav.moduleinfo
+END
+.format_pcm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_pcm.o.d
+END
+.format_pcm.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_pcm.makeopts
+END
+.format_g726.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g726.makeopts
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/formats/.makeopts
+END
+.format_wav.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav.o.d
+END
+.format_sln.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_sln.makeopts
+END
+format_vox.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_vox.c
+END
+.format_g723.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g723.moduleinfo
+END
+.format_h264.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h264.moduleinfo
+END
+format_h263.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_h263.so
+END
+format_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_h263.c
+END
+.format_jpeg.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_jpeg.moduleinfo
+END
+.format_gsm.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_gsm.moduleinfo
+END
+format_g726.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g726.so
+END
+format_jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_jpeg.c
+END
+.format_vox.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_vox.o.d
+END
+.format_ilbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_ilbc.makeopts
+END
+format_sln.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_sln.so
+END
+format_wav.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_wav.so
+END
+.format_wav_gsm.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav_gsm.moduleinfo
+END
+.format_g723.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g723.makeopts
+END
+.format_jpeg.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_jpeg.o.d
+END
+format_wav_gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_wav_gsm.c
+END
+.format_gsm.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_gsm.makeopts
+END
+format_ilbc.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_ilbc.so
+END
+.format_vox.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_vox.moduleinfo
+END
+.format_pcm.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_pcm.moduleinfo
+END
+format_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_pcm.c
+END
+.format_h263.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h263.moduleinfo
+END
+.format_g726.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g726.moduleinfo
+END
+format_gsm.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_gsm.so
+END
+format_g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g726.c
+END
+format_gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_gsm.c
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/formats/.moduleinfo
+END
+format_g729.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_g729.so
+END
+.format_vox.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_vox.makeopts
+END
+.format_ogg_vorbis.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_ogg_vorbis.moduleinfo
+END
+format_wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_wav.c
+END
+.format_g723.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g723.o.d
+END
+.format_h263.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_h263.makeopts
+END
+.format_g726.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g726.o.d
+END
+.format_gsm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_gsm.o.d
+END
+format_wav_gsm.so
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_wav_gsm.so
+END
+.format_g729.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g729.o.d
+END
+.format_ilbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_ilbc.moduleinfo
+END
+format_ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_ilbc.c
+END
+format_vox.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_vox.so
+END
+.format_wav.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_wav.makeopts
+END
+format_pcm.so
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_pcm.so
+END
+.format_ogg_vorbis.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_ogg_vorbis.makeopts
+END
+format_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/formats/format_h264.c
+END
+msgsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/formats/msgsm.h
+END
+.format_g729.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_g729.moduleinfo
+END
+.format_ilbc.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/formats/.format_ilbc.o.d
+END

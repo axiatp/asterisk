@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/asterisk-1.4.39.2/pbx
+END
+.pbx_loopback.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_loopback.moduleinfo
+END
+.pbx_gtkconsole.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_gtkconsole.makeopts
+END
+.ael_ael.tab.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.ael_ael.tab.o.d
+END
+pbx_loopback.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_loopback.c
+END
+pbx_spool.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_spool.so
+END
+.pbx_ael.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_ael.moduleinfo
+END
+.pbx_realtime.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_realtime.moduleinfo
+END
+.pbx_config.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_config.moduleinfo
+END
+pbx_dundi.so
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_dundi.so
+END
+pbx_realtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_realtime.c
+END
+pbx_dundi.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_dundi.c
+END
+.pbx_loopback.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_loopback.o.d
+END
+.pbx_loopback.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_loopback.makeopts
+END
+.pbx_realtime.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_realtime.o.d
+END
+.pbx_dundi.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_dundi.o.d
+END
+.pbx_ael.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_ael.makeopts
+END
+.pbx_realtime.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_realtime.makeopts
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/pbx/Makefile
+END
+dundi-parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/dundi-parser.c
+END
+.pbx_config.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_config.makeopts
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.moduleinfo
+END
+dundi-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/dundi-parser.h
+END
+.pbx_spool.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_spool.moduleinfo
+END
+pbx_loopback.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_loopback.so
+END
+pbx_spool.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_spool.c
+END
+.ael_ael_lex.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.ael_ael_lex.o.d
+END
+pbx_ael.so
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_ael.so
+END
+.dundi-parser.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.dundi-parser.o.d
+END
+.pbx_dundi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_dundi.moduleinfo
+END
+pbx_ael.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_ael.c
+END
+pbx_realtime.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_realtime.so
+END
+pbx_config.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_config.so
+END
+pbx_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_config.c
+END
+.pbx_gtkconsole.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_gtkconsole.moduleinfo
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.makeopts
+END
+.pbx_spool.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_spool.o.d
+END
+pbx_gtkconsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/pbx/pbx_gtkconsole.c
+END
+.pbx_spool.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_spool.makeopts
+END
+.pbx_ael.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_ael.o.d
+END
+.pbx_config.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_config.o.d
+END
+.pbx_dundi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/pbx/.pbx_dundi.makeopts
+END

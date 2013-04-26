@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/asterisk-1.4.39.2/configs
+END
+extensions.ael.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/extensions.ael.sample
+END
+skinny.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/skinny.conf.sample
+END
+meetme.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/meetme.conf.sample
+END
+privacy.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/configs/privacy.conf.sample
+END
+cdr_pgsql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr_pgsql.conf.sample
+END
+muted.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/muted.conf.sample
+END
+telcordia-1.adsi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/telcordia-1.adsi
+END
+adsi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/adsi.conf.sample
+END
+alsa.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/alsa.conf.sample
+END
+iax.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/iax.conf.sample
+END
+sip_notify.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/configs/sip_notify.conf.sample
+END
+followme.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/followme.conf.sample
+END
+mgcp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/mgcp.conf.sample
+END
+udptl.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/udptl.conf.sample
+END
+sip.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/sip.conf.sample
+END
+say.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/say.conf.sample
+END
+cdr_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr_odbc.conf.sample
+END
+codecs.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/codecs.conf.sample
+END
+osp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/osp.conf.sample
+END
+cdr_custom.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr_custom.conf.sample
+END
+cdr_manager.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr_manager.conf.sample
+END
+chan_dahdi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/configs/chan_dahdi.conf.sample
+END
+dundi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/dundi.conf.sample
+END
+indications.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/configs/indications.conf.sample
+END
+enum.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/enum.conf.sample
+END
+oss.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/oss.conf.sample
+END
+adtranvofr.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/configs/adtranvofr.conf.sample
+END
+queues.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/queues.conf.sample
+END
+cdr.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr.conf.sample
+END
+voicemail.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/voicemail.conf.sample
+END
+manager.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/configs/manager.conf.sample
+END
+misdn.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/misdn.conf.sample
+END
+festival.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/festival.conf.sample
+END
+features.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/features.conf.sample
+END
+http.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/http.conf.sample
+END
+h323.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/h323.conf.sample
+END
+logger.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/logger.conf.sample
+END
+sla.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/sla.conf.sample
+END
+res_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/res_odbc.conf.sample
+END
+agents.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/agents.conf.sample
+END
+alarmreceiver.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/configs/alarmreceiver.conf.sample
+END
+func_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/func_odbc.conf.sample
+END
+cdr_tds.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/configs/cdr_tds.conf.sample
+END
+musiconhold.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/configs/musiconhold.conf.sample
+END
+jabber.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/jabber.conf.sample
+END
+extconfig.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/extconfig.conf.sample
+END
+res_snmp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/configs/res_snmp.conf.sample
+END
+vpb.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/vpb.conf.sample
+END
+iaxprov.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/configs/iaxprov.conf.sample
+END
+dnsmgr.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/configs/dnsmgr.conf.sample
+END
+smdi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/configs/smdi.conf.sample
+END
+extensions.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/configs/extensions.conf.sample
+END
+res_pgsql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/configs/res_pgsql.conf.sample
+END
+asterisk.adsi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/configs/asterisk.adsi
+END
+amd.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/amd.conf.sample
+END
+users.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/users.conf.sample
+END
+gtalk.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/gtalk.conf.sample
+END
+rpt.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/rpt.conf.sample
+END
+rtp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/configs/rtp.conf.sample
+END
+modules.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/configs/modules.conf.sample
+END
+phone.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/configs/phone.conf.sample
+END

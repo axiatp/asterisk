@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast
+END
+.hash_hash_page.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash_page.o.d
+END
+.btree_bt_page.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_page.o.d
+END
+.hash_hash.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash.o.d
+END
+.db_db.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.db_db.o.d
+END
+.btree_bt_debug.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_debug.o.d
+END
+.recno_rec_get.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_get.o.d
+END
+.btree_bt_split.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_split.o.d
+END
+.recno_rec_seq.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_seq.o.d
+END
+.hash_hash_log2.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash_log2.o.d
+END
+.btree_bt_overflow.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_overflow.o.d
+END
+.btree_bt_conv.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_conv.o.d
+END
+.btree_bt_search.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_search.o.d
+END
+.recno_rec_utils.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_utils.o.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/Makefile
+END
+.hash_hash_buf.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash_buf.o.d
+END
+.hash_ndbm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_ndbm.o.d
+END
+.recno_rec_search.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_search.o.d
+END
+.recno_rec_close.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_close.o.d
+END
+.btree_bt_get.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_get.o.d
+END
+.recno_rec_put.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_put.o.d
+END
+libdb.map
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/libdb.map
+END
+.mpool_mpool.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.mpool_mpool.o.d
+END
+.btree_bt_seq.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_seq.o.d
+END
+.hash_hash_func.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash_func.o.d
+END
+.btree_bt_utils.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_utils.o.d
+END
+.btree_bt_open.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_open.o.d
+END
+.btree_bt_delete.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_delete.o.d
+END
+.btree_bt_close.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_close.o.d
+END
+.btree_bt_put.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.btree_bt_put.o.d
+END
+libdb1.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/libdb1.a
+END
+.hash_hash_bigkey.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.hash_hash_bigkey.o.d
+END
+.recno_rec_open.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_open.o.d
+END
+.recno_rec_delete.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1/asterisk-1.4.39.2/main/db1-ast/.recno_rec_delete.o.d
+END

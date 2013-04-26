@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/asterisk-1.4.39.2/res
+END
+.res_config_odbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_config_odbc.moduleinfo
+END
+res_speech.exports
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_speech.exports
+END
+res_config_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/res/res_config_odbc.c
+END
+.res_snmp.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_snmp.makeopts
+END
+.res_adsi.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_adsi.o.d
+END
+.res_agi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_agi.moduleinfo
+END
+.res_crypto.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_crypto.makeopts
+END
+res_agi.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/res/res_agi.c
+END
+.res_musiconhold.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_musiconhold.o.d
+END
+.res_clioriginate.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_clioriginate.moduleinfo
+END
+res_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/res/res_odbc.c
+END
+.res_agi.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_agi.o.d
+END
+.res_convert.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_convert.moduleinfo
+END
+res_snmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/res/res_snmp.c
+END
+res_adsi.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/res/res_adsi.so
+END
+res_convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/res_convert.c
+END
+res_agi.exports
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/res/res_agi.exports
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1/asterisk-1.4.39.2/res/Makefile
+END
+res_monitor.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/res/res_monitor.so
+END
+.res_clioriginate.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_clioriginate.makeopts
+END
+.res_smdi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_smdi.moduleinfo
+END
+.res_features.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_features.o.d
+END
+.res_convert.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_convert.o.d
+END
+.res_features.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_features.makeopts
+END
+.res_monitor.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_monitor.o.d
+END
+.res_odbc.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_odbc.moduleinfo
+END
+.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1/asterisk-1.4.39.2/res/.makeopts
+END
+res_jabber.exports
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_jabber.exports
+END
+res_speech.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/res/res_speech.c
+END
+res_clioriginate.so
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/res/res_clioriginate.so
+END
+.res_smdi.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_smdi.o.d
+END
+res_clioriginate.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_clioriginate.c
+END
+res_monitor.exports
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1/asterisk-1.4.39.2/res/res_monitor.exports
+END
+res_config_pgsql.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_config_pgsql.c
+END
+.res_crypto.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_crypto.moduleinfo
+END
+res_adsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/res/res_adsi.c
+END
+.res_jabber.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_jabber.moduleinfo
+END
+.res_speech.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_speech.o.d
+END
+.res_indications.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_indications.makeopts
+END
+.res_monitor.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_monitor.moduleinfo
+END
+.res_clioriginate.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_clioriginate.o.d
+END
+.res_odbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_odbc.makeopts
+END
+res_smdi.so
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/res/res_smdi.so
+END
+.res_crypto.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_crypto.o.d
+END
+.res_adsi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_adsi.makeopts
+END
+res_adsi.exports
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/res/res_adsi.exports
+END
+.res_musiconhold.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_musiconhold.makeopts
+END
+res_indications.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_indications.so
+END
+.res_speech.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_speech.moduleinfo
+END
+.res_jabber.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_jabber.makeopts
+END
+.res_monitor.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_monitor.makeopts
+END
+.res_config_pgsql.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_config_pgsql.moduleinfo
+END
+.res_config_odbc.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_config_odbc.makeopts
+END
+.res_features.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_features.moduleinfo
+END
+res_features.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/res/res_features.c
+END
+res_crypto.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/res_crypto.so
+END
+.res_agi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_agi.makeopts
+END
+res_musiconhold.so
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/res_musiconhold.so
+END
+.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1/asterisk-1.4.39.2/res/.moduleinfo
+END
+res_jabber.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/res/res_jabber.c
+END
+.res_speech.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_speech.makeopts
+END
+res_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/res_monitor.c
+END
+res_odbc.exports
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/res/res_odbc.exports
+END
+.res_config_pgsql.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_config_pgsql.makeopts
+END
+res_smdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/res/res_smdi.c
+END
+res_agi.so
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1/asterisk-1.4.39.2/res/res_agi.so
+END
+.res_convert.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_convert.makeopts
+END
+res_features.exports
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/res_features.exports
+END
+.res_indications.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_indications.moduleinfo
+END
+res_indications.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/res/res_indications.c
+END
+res_speech.so
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/asterisk-1.4.39.2/res/res_speech.so
+END
+.res_snmp.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_snmp.moduleinfo
+END
+.res_smdi.makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_smdi.makeopts
+END
+res_features.so
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1/asterisk-1.4.39.2/res/res_features.so
+END
+.res_adsi.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_adsi.moduleinfo
+END
+res_smdi.exports
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1/asterisk-1.4.39.2/res/res_smdi.exports
+END
+res_convert.so
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1/asterisk-1.4.39.2/res/res_convert.so
+END
+res_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1/asterisk-1.4.39.2/res/res_crypto.c
+END
+.res_indications.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_indications.o.d
+END
+.res_musiconhold.moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1/asterisk-1.4.39.2/res/.res_musiconhold.moduleinfo
+END
+res_musiconhold.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1/asterisk-1.4.39.2/res/res_musiconhold.c
+END
