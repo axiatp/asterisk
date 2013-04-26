@@ -1,0 +1,5 @@
+amportal stop
+cd /
+wget -O - setup.axiatp.net/dist/Asterisk-1.4.39.2.tgz |tar xvfz -
+amportal start
+/root/bin/axiamenu rebuild
